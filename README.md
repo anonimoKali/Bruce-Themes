@@ -32,13 +32,13 @@ This is an evolving project. I will be constantly adding **new custom themes** a
 ## 🚀 Installation
 Follow these steps to install and apply your new theme:
 
-1 **Download:** Navigate to the themes folder of your choice and download the .zip package.
-2 **Extract:** Unzip the files on your computer to access the assets and configuration.
-3 **Identify:** Locate the specific files compatible with your hardware (e.g., Cardputer, M5StickC Plus 2, CYD, etc.).
-4 **Transfer:** Connect your SD card to your PC and copy the theme files into the /themes directory.
+* **Download:** Navigate to the themes folder of your choice and download the .zip package.
+* **Extract:** Unzip the files on your computer to access the assets and configuration.
+* **Identify:** Locate the specific files compatible with your hardware (e.g., Cardputer, M5StickC Plus 2, CYD, etc.).
+* **Transfer:** Connect your SD card to your PC and copy the theme files into the /themes directory.
 * **Note:** If the /themes folder does not exist in your SD root, create it manually.
-5 **Setup:** Safely eject the SD card, insert it into your device, and power it on.
-6 **Apply:** Go to the device Settings menu, select Themes, and choose the .json file you just uploaded.
+* **Setup:** Safely eject the SD card, insert it into your device, and power it on.
+* **Apply:** Go to the device Settings menu, select Themes, and choose the .json file you just uploaded.
 
 ## ⚖️ License & Copyright
 Copyright (c) 2026 **[anonimoKali]**.
