@@ -12,7 +12,6 @@ These themes are tested and optimized for:
 * **M5Stack Cardputer ADV**
 * **M5StickC Plus & Plus 2**
 * **LilyGO T-Deck**
-* **LilyGO T-Embed**
 * **LilyGO T-Embed CC1101**
 * **LilyGO T-Embed CC1101 Plus**
 * **LilyGO T-LoRa-Pager**
