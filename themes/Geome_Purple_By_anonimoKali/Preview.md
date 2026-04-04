@@ -1,9 +1,11 @@
-## 🟪 Geome Purple Theme - Initial Release
+## 🟪 Geome Purple Theme
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/ca40836c-6007-4423-acab-6be7a957d540" />
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/ea2bd681-b1b5-491e-ac90-32e62e5eacc6" />
 
-I am proud to present **Geome Purple**, a high-contrast, geometric theme designed for **Bruce Firmware**. This theme is built for hackers and enthusiasts who want a clean, futuristic, and "stealth-neon" aesthetic for their portable tools.
+
+I am proud to present **Geome Purple**, a high-contrast, geometric theme designed for **Bruce Firmware**. 
+This theme is built for hackers and enthusiasts who want a clean, futuristic, and "stealth-neon" aesthetic for their portable tools.
 
 ### ✨ Highlights
 * **Cyber-Vibe:** Neon Purple accents on a deep black background for maximum OLED/LCD efficiency.
