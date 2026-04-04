@@ -29,6 +29,11 @@ This is an evolving project. I will be constantly adding **new custom themes** a
 * **Optimized Assets:** Small footprint icons and fonts to maintain firmware performance.
 * **Easy Installation:** Just drop the files into your SD card's theme folder.
 
+## Previews 
+![Geome_Purple_T-Embed-CC1101_Preview (1)](https://github.com/user-attachments/assets/24035214-9ec0-4a91-8add-803b428208ba)
+
+
+
 ## 🚀 Installation
 Follow these steps to install and apply your new theme:
 
