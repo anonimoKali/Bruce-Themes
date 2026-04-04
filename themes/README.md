@@ -5,6 +5,19 @@ To ensure the best visual experience, please select the directory that matches y
 
 ---
 
+### 🛠️ How to Choose the Right File
+* 1 **Download:** Navigate to the themes folder of your choice and download the .zip package.
+* 2 **Extract:** Unzip the files on your computer to access the assets and configuration.
+* 3 **Identify:** Locate the specific files compatible with your hardware (e.g., `105px` for M5StickC Plus 2).
+* 3.1 **Note:** Inside, you will find the `.json` file and any required image assets.
+* 4 **Transfer:** Connect your SD card to your PC and copy the theme files into the /themes directory.
+* 4.1 **Note:** It is important to copy the entire "105px" folder (or others, depending on your device)
+* 4.2 **Note:** If the /themes folder does not exist in your SD root, create it manually.
+* 5 **Setup:** Safely eject the SD card, insert it into your device, and power it on.
+* 6 **Apply:** Go to the device Settings menu, select Themes, and choose the .json file you just uploaded.
+
+---
+
 ### 🔍 Find Your Device
 Locate your hardware below to find the correct folder:
 
@@ -22,19 +35,6 @@ Locate your hardware below to find the correct folder:
 
 #### 📁 [192px](./192px)
 * **LilyGO:** T-LoRa-Pager
-
----
-
-### 🛠️ How to Choose the Right File
-* 1 **Download:** Navigate to the themes folder of your choice and download the .zip package.
-* 2 **Extract:** Unzip the files on your computer to access the assets and configuration.
-* 3 **Identify:** Locate the specific files compatible with your hardware (e.g., `105px` for M5StickC Plus 2).
-* 3.1 **Note:** Inside, you will find the `.json` file and any required image assets.
-* 4 **Transfer:** Connect your SD card to your PC and copy the theme files into the /themes directory.
-* 4.1 **Note:** It is important to copy the entire "105px" folder (or others, depending on your device)
-* 4.2 **Note:** If the /themes folder does not exist in your SD root, create it manually.
-* 5 **Setup:** Safely eject the SD card, insert it into your device, and power it on.
-* 6 **Apply:** Go to the device Settings menu, select Themes, and choose the .json file you just uploaded.
 
 ---
 
