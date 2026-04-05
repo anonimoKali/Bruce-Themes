@@ -33,7 +33,8 @@ This is an evolving project. I will be constantly adding **new custom themes** a
 <img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b69e2750-8209-47e3-b8ab-f0e7d0891b8f" />
 <img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/cf153ee6-72aa-4d95-b4f6-8ff10a75519c" />
 <img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7fd1678d-ba85-416a-b6ff-79149172423e" />
-
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7b0371a1-3d49-4133-96cf-6c00ee6a3928" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/930c7cbd-3f8b-4557-98e5-6bcf30ee7c9f" />
 
 ## 🚀 Installation
 Follow these steps to install and apply your new theme:
