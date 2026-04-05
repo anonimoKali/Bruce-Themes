@@ -3,8 +3,8 @@
 This folder contains all the configuration files and assets for the **Bruce Firmware** themes. 
 To ensure the best visual experience, please select the directory that matches your device's screen height/resolution.
 
----
-**(Scroll down for Previews)**
+---                                   
+                                                  $$$ Scroll down for Previews $$$
 ---
 
 ### 🛠️ How to Choose the Right File
