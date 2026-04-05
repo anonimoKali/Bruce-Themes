@@ -6,6 +6,20 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
+## Previews 
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f1ebbe26-0b2e-4776-9333-0051da89ab95" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4a31f9ee-c7c0-4f6b-93ad-6c8e97835960" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/cf153ee6-72aa-4d95-b4f6-8ff10a75519c" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7b0371a1-3d49-4133-96cf-6c00ee6a3928" />
+
+
+
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b6aa59cf-0a29-4803-9684-fa904db21d2b" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b69e2750-8209-47e3-b8ab-f0e7d0891b8f" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7fd1678d-ba85-416a-b6ff-79149172423e" />
+<img width="190" height="140" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/930c7cbd-3f8b-4557-98e5-6bcf30ee7c9f" />
+
+
 ## 📱 Supported Devices
 These themes are tested and optimized for:
 * **M5Stack Cardputer**
