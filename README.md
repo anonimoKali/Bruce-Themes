@@ -64,3 +64,22 @@ Copyright (c) 2026 **[anonimoKali]**.
 Distributed under the **GNU GPLv3 License**. See `LICENSE` for more information. 
 
 *Contributions and feedback are always welcome!*
+
+## ☕ Support my work
+
+If you find this project useful, please consider buying me a coffee! Your support helps me maintain this repository and keep developing open-source tools.
+
+### 💰 Crypto Donations
+
+* **Bitcoin (BTC)**
+    * **Network:** Bitcoin
+    * **Address:** `16EaLy5VydBuRREfjfjZ351hEJZC6BGc1B`
+
+* **USDC**
+    * **Network:** Binance Smart Chain (BSC / BEP20)
+    * **Address:** `0xb3b156a4718479302a3f9e3e477e340a5080cdc0`
+
+> [!CAUTION]
+> Please make sure to select the correct network (**BSC/BEP20**) when sending USDC to avoid loss of funds.
+
+Thank you! ❤️
