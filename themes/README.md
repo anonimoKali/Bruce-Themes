@@ -4,6 +4,8 @@ This folder contains all the configuration files and assets for the **Bruce Firm
 To ensure the best visual experience, please select the directory that matches your device's screen height/resolution.
 
 ---
+**(Scroll down for Previews)**
+---
 
 ### 🛠️ How to Choose the Right File
 * 1 **Download:** Navigate to the themes folder of your choice and download the .zip package.
@@ -41,6 +43,14 @@ Locate your hardware below to find the correct folder:
 > [!IMPORTANT]
 > **Compatibility Note:** Using a theme from the wrong pixel folder may result in distorted icons or misaligned text. 
 Always use the version specifically optimized for your screen height.
+
+## Previews 
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4a31f9ee-c7c0-4f6b-93ad-6c8e97835960" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b69e2750-8209-47e3-b8ab-f0e7d0891b8f" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/cf153ee6-72aa-4d95-b4f6-8ff10a75519c" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7fd1678d-ba85-416a-b6ff-79149172423e" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7b0371a1-3d49-4133-96cf-6c00ee6a3928" />
+<img width="310" height="200" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/930c7cbd-3f8b-4557-98e5-6bcf30ee7c9f" />
 
 ---
 **Maintained by:** [anonimoKali](https://github.com/anonimoKali)  
