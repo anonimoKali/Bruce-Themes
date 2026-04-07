@@ -1,8 +1,8 @@
 ## 💀 Skull Green 
 
-<img width="1462" height="798" alt="Geome_Purple_Preview" src="" />
-<img width="450" height="265" alt="Geome_Purple_Preview" src="" />
-<img width="450" height="247" alt="Geome_Purple_Preview" src="" />
+<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/ca50f175-d084-4487-8652-523315f41696" />
+<img width="480" height="265" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" />
+<img width="480" height="273" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/bdf6e194-c80b-4fd0-aaf7-71be55f7e469" />
 
 
 
