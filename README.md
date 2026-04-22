@@ -10,7 +10,7 @@ As a cybersecurity enthusiast, I design these themes to ensure maximum readabili
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
-> Visit the **[previews](./assets/)** folder to browse high-resolution screenshots of every theme released so far, organized by device type and resolution.
+> Visit the **[previews](https://github.com/anonimoKali/Bruce-Themes/tree/main/previews)** folder to browse high-resolution screenshots of every theme released so far, organized by device type and resolution.
 
 ---
 ## 📱 Supported Devices
