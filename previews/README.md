@@ -1,3 +1,6 @@
+## 🖥️ Desktop White
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />
+
 ## 📏 White Line - Precision & Clarity
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/6525e58c-9f97-46e5-aa87-9c8b1eed235f" />
 <img width="499" height="400" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/bc91185c-df67-40a9-8bfd-1debe3544758" />
