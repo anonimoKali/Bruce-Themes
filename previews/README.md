@@ -25,3 +25,7 @@
 ## 🩸 Blood We Know Theme
 <img width="452" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/027f5f67-e52d-48d5-bb4d-071ec4ef5779" />
 <img width="499" height="321" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7f0616d1-e010-4ab3-b1b3-52670358aeb2" />
+
+## ⚪ Lilygo Base - Minimalist Professional Aesthetic
+<img width="650" height="360" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/cba8972c-2ffe-4a48-95e7-db347935ae33" />
+
