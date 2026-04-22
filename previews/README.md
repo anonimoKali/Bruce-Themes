@@ -1,3 +1,7 @@
+## 🌬️ Simply White - Pure Minimalism
+<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0d8e99-4d8d-4ce5-9268-ad76fe16cf46" />
+<img width="450" height="321" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f20260c7-96f4-4b12-9ab9-d5dfe4023d78" />
+
 ## 🛰️ Pro Plus Tools Green - Tactical Evolution
 <img width="450" height="265" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7b524716-42c9-417d-a26b-65241ce34423" />
 <img width="450" height="265" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/ff6d2f51-5413-42ad-9f31-aa73e998be2c" />
