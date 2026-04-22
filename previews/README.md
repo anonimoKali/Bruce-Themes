@@ -1,3 +1,7 @@
+## 📏 White Line - Precision & Clarity
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/6525e58c-9f97-46e5-aa87-9c8b1eed235f" />
+<img width="499" height="400" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/bc91185c-df67-40a9-8bfd-1debe3544758" />
+
 ## 🌬️ Simply White - Pure Minimalism
 <img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0d8e99-4d8d-4ce5-9268-ad76fe16cf46" />
 <img width="450" height="321" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f20260c7-96f4-4b12-9ab9-d5dfe4023d78" />
