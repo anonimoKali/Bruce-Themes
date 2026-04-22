@@ -6,7 +6,13 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
+## 🖼️ Visual Previews
+Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
+> [!TIP]
+> Visit the **[previews](./assets/)** folder to browse high-resolution screenshots of every theme released so far, organized by device type and resolution.
+
+---
 ## 📱 Supported Devices
 These themes are tested and optimized for:
 * **M5Stack Cardputer**
