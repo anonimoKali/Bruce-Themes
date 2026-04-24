@@ -6,7 +6,10 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
-## 🖼️ Visual Previews
+## 🖼️ Plus Arrow Menu Theme
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
+
+## 🖼️ Visual Previews Others Themes
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
