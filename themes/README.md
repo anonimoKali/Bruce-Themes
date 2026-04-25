@@ -1,3 +1,10 @@
+## 🖼️ Visual Previews Others Themes
+Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
+
+> [!TIP]
+> Visit the **[previews](https://github.com/anonimoKali/Bruce-Themes/tree/main/previews)** folder to browse high-resolution screenshots of every theme released so far, organized by device type and resolution.
+
+
 # 📂 Themes Directory Structure
 
 This folder contains all the configuration files and assets for the **Bruce Firmware** themes. 
