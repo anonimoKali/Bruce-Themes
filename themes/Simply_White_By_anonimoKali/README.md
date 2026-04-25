@@ -1,4 +1,4 @@
-## 🌬️ Simply White - Pure Minimalism Release
+## 🌬️ Simply White - Pure Minimalism Release 
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/012493b1-d3d0-48e2-a4ee-f731fbe283c6" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0d8e99-4d8d-4ce5-9268-ad76fe16cf46" />
