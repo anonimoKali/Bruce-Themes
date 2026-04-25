@@ -1,4 +1,4 @@
-## 📟 Total Tools Green - Terminal Style 
+## 📟 Total Tools Green - Terminal Style  
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/606a575e-a622-4178-a35b-18fdbb007008" />
 <img width="450" height="265" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/9bf0cfc7-413b-45ab-8002-57c5645cfc5b" />
