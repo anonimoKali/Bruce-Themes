@@ -1,4 +1,4 @@
-## 📏 White Line - Precision & Clarity
+## 📏 White Line - Precision & Clarity 
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/aae63a72-3dee-44f3-bc1f-8b05b2c2774b" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/6525e58c-9f97-46e5-aa87-9c8b1eed235f" />
