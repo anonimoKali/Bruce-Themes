@@ -1,4 +1,4 @@
-## 🟪 Geome Purple Theme 
+## 🟪 Geome Purple Theme  
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/ca40836c-6007-4423-acab-6be7a957d540" />
 <img width="499" height="360" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4a31f9ee-c7c0-4f6b-93ad-6c8e97835960" />
