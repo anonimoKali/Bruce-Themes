@@ -1,4 +1,4 @@
-## ⚪ Lilygo Base - Minimalist Professional Aesthetic
+## ⚪ Lilygo Base - Minimalist Professional Aesthetic 
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/22848862-b4dc-4b6f-ba40-c3aca2541fbc" />
 <img width="650" height="360" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/cba8972c-2ffe-4a48-95e7-db347935ae33" />
