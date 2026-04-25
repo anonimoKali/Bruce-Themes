@@ -1,4 +1,4 @@
-## 🌑 Gradient Grey - Modern Depth & Metal Aesthetic
+## 🌑 Gradient Grey - Modern Depth & Metal Aesthetic 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/70470087-d141-4489-9962-79ecf5d32912" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4bbb130e-a6f3-4e32-b98a-5f16f5658d92" />
 <img width="499" height="400" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/893c2e4c-b4d3-464a-b961-7fcd0ac1e2f0" />
