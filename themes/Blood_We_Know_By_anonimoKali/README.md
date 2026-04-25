@@ -1,4 +1,4 @@
-## 🩸 Blood We Know Theme
+## 🩸 Blood We Know Theme 
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/d4be8fb3-1187-4611-98ef-02269fa6c238" />
 <img width="452" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/027f5f67-e52d-48d5-bb4d-071ec4ef5779" />
