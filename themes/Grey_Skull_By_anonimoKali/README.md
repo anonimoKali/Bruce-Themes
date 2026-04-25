@@ -1,4 +1,4 @@
-## 💀 Grey Skull Theme - Light Mode 
+## 💀 Grey Skull Theme - Light Mode  
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/95d0c504-8f73-416e-b164-c98b45c4dd39" />
 <img width="420" height="265" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7b0371a1-3d49-4133-96cf-6c00ee6a3928" />
