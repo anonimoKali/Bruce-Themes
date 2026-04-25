@@ -8,6 +8,8 @@ As a cybersecurity enthusiast, I design these themes to ensure maximum readabili
 
 ## 🖼️ Plus Arrow Menu Theme
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/59dd82f8-e203-442b-a614-0d26e4d21fdc" />
+
 
 ## 🖼️ Visual Previews Others Themes
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
