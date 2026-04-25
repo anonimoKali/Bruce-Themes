@@ -1,4 +1,4 @@
-## 🖥️ Desktop White 
+## 🖥️ Desktop White  
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4541b4e0-5f4e-4188-a967-38b736ac5103" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />
 
