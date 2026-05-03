@@ -6,6 +6,9 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
+## 🖼️ Border Simply
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
+
 ## 🖼️ Plus Arrow Menu Theme
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/59dd82f8-e203-442b-a614-0d26e4d21fdc" />
