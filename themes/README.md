@@ -1,4 +1,4 @@
-## 🖼️ Visual Previews Others Themes 
+## 🖼️ Visual Previews Others Themes   
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
