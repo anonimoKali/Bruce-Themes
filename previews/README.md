@@ -1,4 +1,4 @@
-## 🖼️ Border Simply 
+## 🖼️ Border Simply  
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" />
 
 ## 🖥️ Desktop White
