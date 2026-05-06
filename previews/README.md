@@ -1,3 +1,6 @@
+## 🖼️ Border Simply V2   
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/3c230ea2-93ac-4a63-8656-6c973701a3fb" />
+
 ## 🧊 Cube White
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" />
 
