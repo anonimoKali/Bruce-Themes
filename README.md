@@ -6,21 +6,17 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
-## 🖼️ Border Simply
-<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" />
+## Previews Main Themes
 
-## 🖼️ Border Simply V2
-<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/3c230ea2-93ac-4a63-8656-6c973701a3fb" />
+| Theme | Preview | Theme | Preview |
+| :--- | :--- | :--- | :--- |
+| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🧊 Cube White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" /> |
+| **🪓 Guillotine White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | **🖥️ Desktop White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  |
 
-## 🧊 Cube White
-<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" />
-
-## 🖼️ Plus Arrow Menu Theme
-<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
-<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/59dd82f8-e203-442b-a614-0d26e4d21fdc" />
+---
 
 
-## 🖼️ Visual Previews Others Themes
+## 🖼️ Visual Previews All Others Themes
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
