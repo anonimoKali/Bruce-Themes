@@ -19,7 +19,7 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 <div align="center">
 
-   ## 🎨 Previews Main Themes
+   ## 🎨 Some Previews 
 
 
 
