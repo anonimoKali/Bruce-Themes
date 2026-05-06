@@ -1,3 +1,6 @@
+## 🪓 Guillotine White 
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" />
+
 ## 🖼️ Border Simply V2   
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/3c230ea2-93ac-4a63-8656-6c973701a3fb" />
 
