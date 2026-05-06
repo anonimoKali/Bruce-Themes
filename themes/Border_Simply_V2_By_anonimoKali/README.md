@@ -1,4 +1,4 @@
-## 🖼️ Border Simply V2   
+## 🖼️ Border Simply V2    
 
 <img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b724cd4d-830c-4a9d-9153-9c2538b67422" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/3c230ea2-93ac-4a63-8656-6c973701a3fb" />
