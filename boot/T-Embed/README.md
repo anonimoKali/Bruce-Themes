@@ -1,4 +1,4 @@
-# 🎞️ T-Embed Exclusive Boot Animations 
+# 🎞️ T-Embed Exclusive Boot Animations  
 
 This folder contains a collection of custom startup animations (**GIFs**) specifically curated and optimized for the **LilyGO T-Embed**.
 
