@@ -9,7 +9,14 @@
 ---
 
 🎨 Exclusive custom themes for Bruce Firmware. Optimized for M5Stack Cardputer/ADV, M5StickC Plus 1/2, T-Embed, and CC1101 Plus, Cyber-ready UI/UX.
-# 🛡️ Bruce Firmware Custom Themes
+
+---
+
+<div align="center">
+
+<img width="700" height="120" alt="banner1" src="https://github.com/user-attachments/assets/d1870416-6f33-43fa-a238-568bc8a8e898" />
+
+</div>
 
 Welcome to my official repository for **Bruce Firmware** themes. This project is dedicated to enhancing the UI/UX of your favorite cybersecurity tools and handheld devices with high-contrast, functional, and "stealth-mode" aesthetics.
 
@@ -17,7 +24,13 @@ As a cybersecurity enthusiast, I design these themes to ensure maximum readabili
 
 ---
 
-## 🖼️ Visual Previews All Themes
+<div align="center">
+
+<img width="700" height="120" alt="banner2" src="https://github.com/user-attachments/assets/539cf901-1d16-4da6-a943-ef4c71d6b733" />
+
+</div>
+
+
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
@@ -25,10 +38,9 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 ---
 
-
 <div align="center">
 
-   ## 🎨 Some Previews 
+<img width="700" height="120" alt="banner3" src="https://github.com/user-attachments/assets/bdf97ba9-2fac-4c34-b3f5-ada45c2d9213" />
 
 
 
@@ -39,11 +51,12 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 </div>
 
----
+
 
 <div align="center">
 
-## 🎨 boot.gif Previews
+<img width="700" height="120" alt="banner4" src="https://github.com/user-attachments/assets/d1f0e377-1f39-49c7-9313-4cd72c1e8d50" />
+
 
 
 <img width="170" height="170" alt="Skull" src="https://github.com/user-attachments/assets/4771d9ff-9462-4a75-8dc2-312cdb1a6c66" />
@@ -62,10 +75,14 @@ Before you choose your theme, you can take a look at the actual hardware capture
 ---
 
 
+<div align="center">
+
+<img width="700" height="120" alt="banner5" src="https://github.com/user-attachments/assets/9e756dc3-d840-4685-a684-89bf45ace24e" />
 
 
+</div>
 
-## 📱 Supported Devices
+
 These themes are tested and optimized for:
 * **M5Stack Cardputer**
 * **M5Stack Cardputer ADV**
@@ -76,20 +93,37 @@ These themes are tested and optimized for:
 * **LilyGO T-LoRa-Pager**
 * **Cheap Yellow Display (CYD)**
 
-## 🔄 Roadmap & Future Updates
+<div align="center">
+
+<img width="700" height="120" alt="banner6" src="https://github.com/user-attachments/assets/b2df4c93-d943-40a4-ba13-34573d6caacb" />
+
+
+</div>
+
+
 This is an evolving project. I will be constantly adding **new custom themes** and providing **regular updates** to existing ones to ensure compatibility with the latest Bruce Firmware releases and to improve UI details.
 
 > [!TIP]
 > **Stay Tuned:** Star this repository to get notified about new releases and visual enhancements!
 
-## ✨ Features
+<div align="center">
+
+<img width="700" height="120" alt="banner7" src="https://github.com/user-attachments/assets/37fe290a-4372-4e13-bf34-2e43c12d94da" />
+
+</div>
+
+
 * **Cyber-Centric Design:** Dark modes, matrix-inspired palettes, and high-visibility layouts.
 * **Optimized Assets:** Small footprint icons and fonts to maintain firmware performance.
 * **Easy Installation:** Just drop the files into your SD card's theme folder.
 
+<div align="center">
+
+<img width="700" height="120" alt="banner8" src="https://github.com/user-attachments/assets/d05accca-c87c-4d2f-a4cd-598cfa3bccff" />
+
+</div>
 
 
-## 🚀 Installation
 Follow these steps to install and apply your new theme:
 
 * 1 **Download:** Navigate to the themes folder of your choice and download the .zip package.
@@ -100,13 +134,24 @@ Follow these steps to install and apply your new theme:
 * 5 **Setup:** Safely eject the SD card, insert it into your device, and power it on.
 * 6 **Apply:** Go to the device Settings menu, select Themes, and choose the .json file you just uploaded.
 
-## ⚖️ License & Copyright
+<div align="center">
+
+<img width="700" height="120" alt="banner9" src="https://github.com/user-attachments/assets/12b27402-3350-4d5e-b569-fa84de4b6a0e" />
+
+</div>
+
+
 Copyright (c) 2026 **[anonimoKali]**.
 Distributed under the **GNU GPLv3 License**. See `LICENSE` for more information. 
 
 *Contributions and feedback are always welcome!*
 
-## ☕ Support my work
+<div align="center">
+
+<img width="700" height="120" alt="banner10" src="https://github.com/user-attachments/assets/3d7786c3-532d-4afe-9a88-8931aae95cd6" />
+
+</div>
+
 
 If you find this project useful, please consider buying me a coffee! Your support helps me maintain this repository and keep developing open-source tools.
 
@@ -124,3 +169,4 @@ If you find this project useful, please consider buying me a coffee! Your suppor
 > Please make sure to select the correct network (**BSC/BEP20**) when sending USDC to avoid loss of funds.
 
 Thank you! ❤️
+
