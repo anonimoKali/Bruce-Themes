@@ -1,4 +1,10 @@
-## 🎨 Themes Collection
+## 🎨 Themes Collection 
+
+> [!TIP]
+> | Click on the theme name to download |
+> Click on the image to enlarge |
+
+## 🎨 T-Embed CC1101 Plus
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +21,7 @@
 
 
 
-## 🎨 Themes Collection (Gallery)
+## 🎨 M5 Stickc Plus2
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
