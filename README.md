@@ -1,4 +1,13 @@
-# Bruce-Themes
+---
+
+<div align="center">
+
+<img width="700" height="220" alt="banner github" src="https://github.com/user-attachments/assets/fa9bf2c2-02be-4d27-b24d-b3bafc0a9faa" />
+
+</div>
+
+---
+
 🎨 Exclusive custom themes for Bruce Firmware. Optimized for M5Stack Cardputer/ADV, M5StickC Plus 1/2, T-Embed, and CC1101 Plus, Cyber-ready UI/UX.
 # 🛡️ Bruce Firmware Custom Themes
 
