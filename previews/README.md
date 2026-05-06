@@ -1,10 +1,20 @@
-## 🎨 Themes Collection 
+<div align="center">
+
+<img width="700" height="120" alt="banner11" src="https://github.com/user-attachments/assets/cec6520c-4cda-4466-a1cf-08e95cdfdbda" />
+
+</div>
 
 > [!TIP]
 > | Click on the theme name to download |
 > Click on the image to enlarge |
 
-## 🎨 T-Embed CC1101 Plus
+<div align="center">
+
+<img width="700" height="120" alt="banner12" src="https://github.com/user-attachments/assets/4545dc9e-1ca9-482c-9d37-120661352fba" />
+
+</div>
+
+<div align="center">
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
@@ -19,9 +29,12 @@
 | [**🩸 Blood We Know**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Blood_We_Know_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/027f5f67-e52d-48d5-bb4d-071ec4ef5779" /> | [**⚪ Lilygo Base**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Lilygo_base_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/cba8972c-2ffe-4a48-95e7-db347935ae33" /> |
 | **.** | . | **.** | . | 
 
+</div>
 
+<div align="center">
 
-## 🎨 M5 Stickc Plus2
+<img width="700" height="120" alt="banner13" src="https://github.com/user-attachments/assets/b12ba5a6-01a7-4bf0-98fb-313140fa7698" />
+
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
@@ -32,5 +45,5 @@
 | [**💀 Skull Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Skull_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/bdf6e194-c80b-4fd0-aaf7-71be55f7e469" /> | [**💀 Grey Skull**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Grey_Skull_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/930c7cbd-3f8b-4557-98e5-6bcf30ee7c9f" /> |
 | **.** | . | **.** | . | 
 
-
+</div>
 
