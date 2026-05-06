@@ -1,4 +1,4 @@
-# 🎞️ Boot Animations (GIF Boot)
+# 🎞️ Boot Animations (GIF Boot) 
 
 Welcome to the **Boot GIF** collection! Here you will find a library of custom startup animations designed specifically for your **T-Embed** devices. 
 These animations play automatically every time your device powers on, giving your hardware a unique and personalized identity.
