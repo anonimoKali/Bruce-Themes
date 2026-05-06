@@ -6,23 +6,56 @@ Welcome to my official repository for **Bruce Firmware** themes. This project is
 
 As a cybersecurity enthusiast, I design these themes to ensure maximum readability and a professional look during field operations.
 
-## Previews Main Themes
-
-| Theme | Preview | Theme | Preview |
-| :--- | :--- | :--- | :--- |
-| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🧊 Cube White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" /> |
-| **🪓 Guillotine White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | **🖥️ Desktop White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  |
-
 ---
 
-
-## 🖼️ Visual Previews All Others Themes
+## 🖼️ Visual Previews All Themes
 Before you choose your theme, you can take a look at the actual hardware captures to see how each design fits your device.
 
 > [!TIP]
 > Visit the **[previews](https://github.com/anonimoKali/Bruce-Themes/tree/main/previews)** folder to browse high-resolution screenshots of every theme released so far, organized by device type and resolution.
 
 ---
+
+
+<div align="center">
+
+   ## 🎨 Previews Main Themes
+
+
+
+| Theme | Preview | Theme | Preview |
+| :--- | :--- | :--- | :--- |
+| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🧊 Cube White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" /> |
+| **🪓 Guillotine White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | **🖥️ Desktop White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 boot.gif Previews
+
+
+<img width="170" height="170" alt="Skull" src="https://github.com/user-attachments/assets/4771d9ff-9462-4a75-8dc2-312cdb1a6c66" />
+<img width="170" height="170" alt="Pixel_Skull" src="https://github.com/user-attachments/assets/a736a1ff-6d02-4396-ad9b-dcf390f71033" />
+<img width="170" height="170" alt="Matrix" src="https://github.com/user-attachments/assets/a3af52c6-897f-4440-988e-1d7bb3196f0f" />
+<img width="170" height="170" alt="Coding" src="https://github.com/user-attachments/assets/810d9718-3e11-4bea-b0d3-939c9e279f0f" />
+
+
+<img width="170" height="170" alt="Shark_Eating" src="https://github.com/user-attachments/assets/e12d409b-fb41-4da0-a440-8940b94ec1a5" />
+<img width="170" height="170" alt="Pixel_Ghost" src="https://github.com/user-attachments/assets/4f129c42-4df5-4ad0-b4e2-c50e870a1a9d" />
+<img width="170" height="170" alt="Secure" src="https://github.com/user-attachments/assets/9a228374-c0cb-4a7c-b475-756cea9dc70d" />
+<img width="170" height="170" alt="Eyes" src="https://github.com/user-attachments/assets/09a0a8d1-80c7-43fa-bf8c-0e70fef65933" />
+
+</div>
+
+---
+
+
+
+
+
 ## 📱 Supported Devices
 These themes are tested and optimized for:
 * **M5Stack Cardputer**
