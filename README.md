@@ -9,6 +9,9 @@ As a cybersecurity enthusiast, I design these themes to ensure maximum readabili
 ## 🖼️ Border Simply
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" />
 
+## 🧊 Cube White
+<img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" />
+
 ## 🖼️ Plus Arrow Menu Theme
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/a6fae5ea-bdaa-4e55-b5bc-34382736ca73" />
 <img width="600" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/59dd82f8-e203-442b-a614-0d26e4d21fdc" />
