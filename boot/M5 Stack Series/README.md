@@ -1,4 +1,4 @@
-# 🎞️ M5Stack Series Exclusive Boot Animations
+# 🎞️ M5Stack Series Exclusive Boot Animations 
 
 This folder contains a collection of custom startup animations (**GIFs**) 
 specifically curated and optimized for the **Cardputer ADV**, **M5StickC Plus**, **M5StickC Plus2**, and **M5Stack S3** series.
