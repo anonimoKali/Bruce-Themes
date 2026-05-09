@@ -18,6 +18,7 @@
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
+| [**🗺️ World**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/World_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/08dac837-4320-405f-a327-58314cc093d4c" /> | 
 | [**🐉 Kali**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/9930d104-8e98-43ea-a128-5b915354dddc" /> | [**🐉 Kali Border**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/f2172ec7-1811-4057-b675-b01da564df35" /> |
 | [**🪓 Guillotine White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Guillotine_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | [**🖼️ Border Simply V2**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Border_Simply_V2_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/3c230ea2-93ac-4a63-8656-6c973701a3fb" /> |
 | [**🧊 Cube White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Cube_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" /> | [**🖼️ Border Simply**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Border_Simply_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> |
@@ -28,7 +29,7 @@
 | [**📟 Total Tools Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Total_Tools_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/9bf0cfc7-413b-45ab-8002-57c5645cfc5b" /> | [**🟪 Geome Purple**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Geome_Purple_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/4a31f9ee-c7c0-4f6b-93ad-6c8e97835960" /> |
 | [**💀 Skull Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Skull_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" /> | [**💀 Grey Skull**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Grey_Skull_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/7b0371a1-3d49-4133-96cf-6c00ee6a3928" /> |
 | [**🩸 Blood We Know**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Blood_We_Know_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/027f5f67-e52d-48d5-bb4d-071ec4ef5779" /> | [**⚪ Lilygo Base**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Lilygo_base_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/cba8972c-2ffe-4a48-95e7-db347935ae33" /> |
-| **.** | . | **.** | . | 
+
 
 </div>
 
