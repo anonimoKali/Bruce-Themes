@@ -63,6 +63,8 @@ Before you choose your theme, you can take a look at the actual hardware capture
 <img width="170" height="170" alt="Pixel_Skull" src="https://github.com/user-attachments/assets/a736a1ff-6d02-4396-ad9b-dcf390f71033" />
 <img width="170" height="170" alt="Matrix" src="https://github.com/user-attachments/assets/a3af52c6-897f-4440-988e-1d7bb3196f0f" />
 <img width="170" height="170" alt="Coding" src="https://github.com/user-attachments/assets/810d9718-3e11-4bea-b0d3-939c9e279f0f" />
+<img width="170" height="170" alt="skull-green" src="https://github.com/user-attachments/assets/01b2c6f8-2c6e-4928-a59b-0789ba73a3c6" />
+<img width="170" height="170" alt="kalilinux" src="https://github.com/user-attachments/assets/cd528176-8ee3-44b4-84a6-6ff4f54c2b8d" />
 
 
 <img width="170" height="170" alt="Shark_Eating" src="https://github.com/user-attachments/assets/e12d409b-fb41-4da0-a440-8940b94ec1a5" />
