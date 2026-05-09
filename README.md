@@ -46,7 +46,7 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
-| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🧊 Cube White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/4c0658b3-b6bd-4a97-93bf-797ca883c505" /> |
+| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🐉 Kali** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/9930d104-8e98-43ea-a128-5b915354dddc" /> |
 | **🪓 Guillotine White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | **🖥️ Desktop White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  |
 
 </div>
