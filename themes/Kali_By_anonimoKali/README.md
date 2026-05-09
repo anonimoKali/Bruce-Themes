@@ -26,6 +26,12 @@ This release features two distinct variations of the same high-contrast theme, d
 
 ---
 
+> [!TIP]
+> **Complete the look!** 🎬 Download the matching startup animation **`kalilinux.gif`** from this release.
+> Copy it to the **root directory** of your SD card and rename it to **`boot.gif`** to get a full Kali Linux boot experience!
+
+---
+
 ### ✨ Highlights
 * **Offensive Security Design:** Clean, iconic monochrome graphics optimized for maximum screen readability.
 * **Sharp Grid Alignment:** Custom-fit text spacing and battery/status bars.
