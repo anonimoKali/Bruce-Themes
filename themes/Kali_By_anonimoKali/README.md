@@ -1,4 +1,4 @@
-# 🐉 Kali Series  
+# 🐉 Kali Series   
 
 Bring the legendary, sharp identity of **Kali Linux** directly to your handheld companion. 
 
