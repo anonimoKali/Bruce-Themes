@@ -1,3 +1,13 @@
+<div align="center">
+
+[![Look all themes](https://img.shields.io/badge/LOOK_ALL_THEMES-green?style=for-the-badge)](https://github.com/anonimoKali/Bruce-Themes/tree/main/previews)
+[![Themes download](https://img.shields.io/badge/THEMES_DOWNLOAD-8a2be2?style=for-the-badge)](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes)
+[![boot.gif](https://img.shields.io/badge/boot.gif-blue?style=for-the-badge)](https://github.com/anonimoKali/Bruce-Themes/tree/main/boot)
+
+
+</div>
+
+
 ---
 
 <div align="center">
