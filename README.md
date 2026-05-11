@@ -59,9 +59,9 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 | Theme | Preview | Theme | Preview |
 | :--- | :--- | :--- | :--- |
-| **🖼️ Border Simply** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/88d4e0f6-a656-479a-bebd-092dc67a493b" /> | **🐉 Kali** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/9930d104-8e98-43ea-a128-5b915354dddc" /> | 
-| **🪓 Guillotine White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | **🖥️ Desktop White** | <img width="190" height="120" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  | 
-| **📟 Total Tools White** | <img width="190" height="120" src="https://github.com/user-attachments/assets/b6ff5b68-e72b-4fea-8acf-34a5693ac15d" /> | **💀 Skull Green** | <img width="190" height="120" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" /> |
+| [**🖥️ Kali Desktop**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_Desktop_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/dea4711b-8960-45c9-92b5-43f9e561347c" /> | [**🐉 Kali**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/9930d104-8e98-43ea-a128-5b915354dddc" /> | 
+| [**🪓 Guillotine White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Guillotine_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | [**🖥️ Desktop White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Desktop_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  | 
+| [**📟 Total Tools White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Total_Tools_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/b6ff5b68-e72b-4fea-8acf-34a5693ac15d" /> | [**💀 Skull Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Skull_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" /> |
 
 </div>
 
