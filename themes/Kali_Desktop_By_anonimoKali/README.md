@@ -31,6 +31,13 @@ This release introduces the **Kali Desktop Series**, featuring two distinct high
 
 ---
 
+
+> [!TIP]
+> **Complete the look!** 🎬 Download the matching startup animation **`kalilinux.gif`** from this release.
+> Copy it to the **root directory** of your SD card and rename it to **`boot.gif`** to get a full Kali Linux boot experience!
+
+---
+
 ### ✨ Highlights
 * **Iconic Imagery:** Features the distinctive sharp-edged dragon logo.
 * **Optimized Grid:** Every text element, icon, and status bar is locked to a precise pixel grid.
