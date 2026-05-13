@@ -61,7 +61,7 @@ Before you choose your theme, you can take a look at the actual hardware capture
 | :--- | :--- | :--- | :--- |
 | [**🖥️ Kali Desktop**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_Desktop_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/dea4711b-8960-45c9-92b5-43f9e561347c" /> | [**🐉 Kali**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Kali_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/9930d104-8e98-43ea-a128-5b915354dddc" /> | 
 | [**🪓 Guillotine White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Guillotine_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/f430b229-7f62-4931-be3d-045afde1a1c9" /> | [**🖥️ Desktop White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Desktop_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/efe205ac-d9a1-4431-acb8-e533d5702acf" />  | 
-| [**📟 Total Tools White**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Total_Tools_White_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/b6ff5b68-e72b-4fea-8acf-34a5693ac15d" /> | [**💀 Skull Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Skull_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" /> |
+| [**🐉 Vertical Kali**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Vertical_Kali_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/3f35a52b-da54-477b-a24f-cbf0ee26412a" /> | [**💀 Skull Green**](https://github.com/anonimoKali/Bruce-Themes/tree/main/themes/Skull_Green_By_anonimoKali) | <img width="190" height="120" src="https://github.com/user-attachments/assets/64edb52c-6791-4b8f-9465-7dd86ef88cd3" /> |
 
 </div>
 
@@ -71,7 +71,9 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 <img width="700" height="120" alt="banner4" src="https://github.com/user-attachments/assets/d1f0e377-1f39-49c7-9313-4cd72c1e8d50" />
 
+</div>
 
+<div align="center">
 
 <img width="170" height="170" alt="Skull" src="https://github.com/user-attachments/assets/4771d9ff-9462-4a75-8dc2-312cdb1a6c66" />
 <img width="170" height="170" alt="Pixel_Skull" src="https://github.com/user-attachments/assets/a736a1ff-6d02-4396-ad9b-dcf390f71033" />
