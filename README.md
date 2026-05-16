@@ -76,6 +76,10 @@ Before you choose your theme, you can take a look at the actual hardware capture
 
 <div align="center">
 
+<img width="170" height="170" alt="Flipper_Classic" src="https://github.com/user-attachments/assets/84486573-6233-4a16-880d-1cf1be93bd91" />
+<img width="170" height="170" alt="Flipper_Black" src="https://github.com/user-attachments/assets/3ab33bd5-4ed2-4e2e-84a9-8f0ad66ce7a5" />
+<img width="170" height="170" alt="Flipper_White" src="https://github.com/user-attachments/assets/2bab258b-c2ab-4c1b-8964-52080847d637" />
+
 <img width="170" height="170" alt="Skull" src="https://github.com/user-attachments/assets/4771d9ff-9462-4a75-8dc2-312cdb1a6c66" />
 <img width="170" height="170" alt="Pixel_Skull" src="https://github.com/user-attachments/assets/a736a1ff-6d02-4396-ad9b-dcf390f71033" />
 <img width="170" height="170" alt="Matrix" src="https://github.com/user-attachments/assets/a3af52c6-897f-4440-988e-1d7bb3196f0f" />
