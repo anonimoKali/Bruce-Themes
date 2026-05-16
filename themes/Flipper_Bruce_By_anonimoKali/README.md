@@ -6,6 +6,13 @@ To ensure the perfect look for any hardware setup, shell modification, or lighti
 
 ---
 
+# .gif
+<img width="320" height="170" alt="Flipper_Classic" src="https://github.com/user-attachments/assets/84486573-6233-4a16-880d-1cf1be93bd91" />
+<img width="320" height="170" alt="Flipper_Black" src="https://github.com/user-attachments/assets/3ab33bd5-4ed2-4e2e-84a9-8f0ad66ce7a5" />
+<img width="320" height="170" alt="Flipper_White" src="https://github.com/user-attachments/assets/2bab258b-c2ab-4c1b-8964-52080847d637" />
+
+---
+
 
 # 🍊 Flipper Bruce Classic 
 (`Flipper_Bruce_Classic_By_anonimoKali`)
