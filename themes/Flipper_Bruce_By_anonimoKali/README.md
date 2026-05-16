@@ -1,4 +1,4 @@
-# 🐬 Flipper Bruce Series - The Ultimate Cyber-Dolphin Cross-Over
+# 🐬 Flipper Bruce Series - The Ultimate Cyber-Dolphin Cross-Over 
 
 Say hello to an iconic companion! The **Flipper Bruce Series** brings the beloved cyber-dolphin mascot from the Flipper Zero universe straight into your **Bruce Firmware** terminal. 
 
