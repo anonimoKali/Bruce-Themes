@@ -10,8 +10,11 @@ To ensure the perfect look for any hardware setup, shell modification, or lighti
 # 🍊 Flipper Bruce Classic 
 (`Flipper_Bruce_Classic_By_anonimoKali`)
 
-<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/b4cf584e-6ee1-4c89-b10f-db1eda39289e" />
-<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/6658da69-e4a1-4eb5-af77-9eddecbe9ed3" />
+<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/e10d81a8-862c-4f55-9fa6-9ee98e898d5f" />
+<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/da85f529-95c9-4321-aa3c-3431d0f38746" />
+
+
+
 
 
 * **The Authentic Look:** Recreates the exact, nostalgic amber/orange backlight aesthetic of the original Flipper Zero. 
@@ -21,8 +24,10 @@ To ensure the perfect look for any hardware setup, shell modification, or lighti
 # 🔲 Flipper Bruce White 
 (`Flipper_Bruce_White_By_anonimoKali`)
 
-<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/c8a64118-9ac4-42d5-9105-a6b6257f9015" />
-<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/0edcd889-96a5-449e-a26c-bc47a95881f8" />
+<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/8bd1b6b7-356c-40c1-9f0c-3ac5a15c7cd3" />
+<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/032c39af-01f9-46af-a1a7-d00f133ba35c" />
+
+
 
 
 * **E-Ink Minimalist:** A crisp, high-visibility light mode layout.
@@ -32,8 +37,11 @@ To ensure the perfect look for any hardware setup, shell modification, or lighti
 # 🔌 Flipper Bruce Black 
 (`Flipper_Bruce_Black_By_anonimoKali`)
 
-<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/6144453b-93b0-40fb-8be1-ed119bb764b4" />
-<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/7c11bc28-f0af-45c4-846b-5658d2075b21" />
+<img width="1462" height="798" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/e6ae415d-a92f-4b92-9eaa-4525805bf817" />
+<img width="650" height="370" alt="Geome_Purple_Preview" src="https://github.com/user-attachments/assets/70c8838d-5954-4c3c-bb61-ac13fe34de2f" />
+
+
+
 
 
 * **Tactical Dark Mode:** The ultimate stealth theme featuring white pixel art on a pure black background.
